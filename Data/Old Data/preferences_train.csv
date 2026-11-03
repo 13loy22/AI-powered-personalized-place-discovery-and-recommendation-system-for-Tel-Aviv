@@ -1,0 +1,11 @@
+text,cafe,art,outdoors,beach,nightlife,market,quiet,budget,romantic,culture
+I want a quiet coffee shop to read,1,0,0,0,0,0,1,0,0,0
+I want to visit an art gallery,0,1,0,0,0,0,0,0,0,1
+Find an outdoor park near the sea,0,0,1,1,0,0,0,0,0,0
+I want an affordable place to eat,0,0,0,0,0,0,0,1,0,0
+Find a romantic place for a date,0,0,0,0,0,0,0,0,1,0
+I want a lively bar with music,0,0,0,0,1,0,0,0,0,0
+Find a local flea market,0,0,0,0,0,1,0,1,0,0
+I want a peaceful place outdoors,0,0,1,0,0,0,1,0,0,0
+I want to explore museums and history,0,0,0,0,0,0,0,0,0,1
+I want coffee near the beach,1,0,0,1,0,0,0,0,0,0
